@@ -1,1 +1,29 @@
-
+1. Executive Summary: Narrow Single-Department Pilot Unlocks
+Faster MRD Chart Closure and Lower Claim Denials
+1.1 Problem: Post-Discharge Manual Checks Create Billing Bottlenecks and
+Accreditation Risk
+In medium-to-large secondary and tertiary care hospitals across India, every inpatient case sheet
+arriving in the Hospital Medical Records Department (MRD) after physical patient discharge must pass
+two sequential, largely paper- or scan-based manual reviews before final archiving and insurance claim
+submission: (1) a completeness check verifying physician signatures, discharge summary presence,
+operative notes, consent forms, and mandatory fields required under National Accreditation Board for
+Hospitals &amp; Healthcare Providers (NABH) standards, and (2) a clinical coding check translating free-text
+diagnostic and procedural narratives into standardized World Health Organization ICD-10 codes. Today,
+this workflow suffers from four severe operational failure modes:
+       Slow and inconsistent ICD-10 coding (15 to 30+ minutes per complex chart): Because clinical notes
+contain unstandardized physician abbreviations, specialty-specific shorthand, and multi-morbidity
+narratives, two coding officers reviewing similar surgical charts frequently assign divergent CDC ICD-
+10-CM codes. Inaccurate or unspecified codes directly trigger Third-Party Administrator (TPA) and
+insurance claim rejections (MediCodio AI).
+     Labor-intensive deficiency chasing across wards: MRD Deficiency Officers manually flip through
+multi-page scanned or physical files to spot missing signatures or incomplete discharge advice, then
+chase busy clinicians via one-on-one phone calls or physical ward rounds—a repetitive process
+prone to human oversight and multi-day delays (PMC Audit Study).
+    Blind First-In-First-Out (FIFO) queue processing: All discharge records sit in an undifferentiated
+queue regardless of financial claim value, TPA submission deadline, or regulatory audit sensitivity,
+causing high-value cashless/reimbursement files and high-audit-risk records to stall behind routine
+low-complexity cash charts.
+     Downstream hospital-wide ripple effects: MRD backlogs delay insurance cash flow, stall medico-
+legal record issuances, impede statutory communicable disease and mortality reporting, and expose
+the hospital to non-compliance citations during NABH 6th Edition and Joint Commission
+International (JCI) surveillance audits.
